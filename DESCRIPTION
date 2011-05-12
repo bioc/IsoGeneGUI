@@ -1,7 +1,7 @@
 Package: IsoGeneGUI
 Type: Package
 Title: A graphical user interface to conduct a dose-response analysis of microarray data
-Version: 1.4.0
+Version: 1.2.2
 Date: 2009-11-16
 Author: Setia Pramana, Dan Lin, Philippe Haldermans, Tobias Verbeke
 Maintainer: Setia Pramana <setia.pramana@uhasselt.be>
@@ -9,8 +9,8 @@ Description:  The IsoGene Graphical User Interface (IsoGene-GUI) is a user frien
 Depends: tcltk, tkrplot, IsoGene
 Imports: multtest, relimp, WriteXLS,gdata, RColorBrewer, geneplotter
 Suggests: RUnit
-biocViews: Microarray, DifferentialExpression, GUI
-References:  Lin, D., Shkedy, Z., Yekutieli, D., Burzykowski, T., Gohlmann, H., De Bondt, A., Perera, T., Geerts, T. and Bijnens, L. (2007) Testing for trends in dose-response microarray experiments: A comparison of several testing procedures, multiplicity and resampling-based inference. Statistical Applications in Genetics and Molecular Biology, 6(1), Article 26.
+biocViews: Microarray, Statistics, DifferentialExpression, GUI
+References:  Lin, D., Shkedy, Z., Yekutieli, D., Amaratunga, D. and Bijnens., L. (Eds.) (2011) Modeling Dose-response Microarray Data in Early Drug Development Experiments Using R. Springer.
 License: GPL-2
 LazyLoad: yes
 Collate: about.R adjustment.R browse.R browse2.R CalcStat.R ChooseStat.R
