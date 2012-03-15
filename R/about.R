@@ -19,7 +19,7 @@ tkgrid(tklabel(text1 ,text=" The IsoGene package is a package developed by Dan L
 tkgrid(tklabel(text2 ,text=" The IsoGene GUI package is developed for users with no or limited knowledge 
 about R programming so they can perform the analysis of dose-response in 
 a microarray setting  easily. The package is developed and maintained by Setia Pramana 
-(setia.pramana@ki.be)",font=fontinfo))
+(setia.pramana@ki.se)",font=fontinfo))
 
 
 tkgrid(tklabel(text3 ,text="             More detail information of the IsoGene project can be found in:  
