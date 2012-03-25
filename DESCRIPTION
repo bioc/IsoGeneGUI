@@ -1,7 +1,7 @@
 Package: IsoGeneGUI
 Type: Package
 Title: A graphical user interface to conduct a dose-response analysis of microarray data
-Version: 1.9.0
+Version: 1.10.0
 Date: 2012-02-26
 Author: Setia Pramana, Dan Lin, Philippe Haldermans, Tobias Verbeke
 Maintainer: Setia Pramana <setia.pramana@ki.se>
