@@ -22,6 +22,6 @@ Collate: about.R adjustment.R browse.R browse2.R CalcStat.R ChooseStat.R
 	   Plot2.R PlotFdrDlt.R PlotFPDlt.R PlotSigDlt.R printExact.R printsummary.R 
   	   PvalAdj.R samplot2.R save.result.R save.result.mult.R saveDir.R SaveGraph.R 
 	   saveXls.R savingRwd.R  SEPlot.R Setseed.R showdata.R Signif.R summ.R UserPlot.R 
-	   UserPlotting.R xfudge.R test_IsoGeneGUI_package.R
+	   UserPlotting.R xfudge.R test_IsoGeneGUI_package.R IsoGeneGUIVignette.R
 URL: http://www.ibiostat.be/software/IsoGeneGUI/index.html
 
