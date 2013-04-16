@@ -18,7 +18,7 @@ To run the package, we use the function: IsoGeneGUI().
 \author{
 Author: Setia Pramana
 
-Maintainer: Setia Pramana <setia.pramana@ki.be>
+Maintainer: Setia Pramana <setia.pramana@ki.se>
 }
 
 
