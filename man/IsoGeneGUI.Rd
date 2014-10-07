@@ -1,4 +1,4 @@
-\title{IsoGeneGUI }
+\title{IsoGeneGUI}
 \name{IsoGeneGUI}
 \alias{IsoGeneGUI}
 
@@ -18,7 +18,7 @@ To run the package, we use the function: IsoGeneGUI().
 \author{
 Author: Setia Pramana
 
-Maintainer: Setia Pramana <setia.pramana@ki.se>
+Maintainer: Setia Pramana <setia.pramana@ki.be>
 }
 
 
