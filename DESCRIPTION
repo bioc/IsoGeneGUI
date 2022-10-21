@@ -2,7 +2,7 @@ Package: IsoGeneGUI
 Type: Package
 Title: A graphical user interface to conduct a dose-response analysis
         of microarray data
-Version: 2.33.0
+Version: 2.33.1
 Date: 2020-09-01
 Author: Setia Pramana, Dan Lin, Philippe Haldermans, Tobias Verbeke, Martin Otava
 Maintainer: Setia Pramana <setia.pramana@ki.se>
@@ -24,7 +24,8 @@ Collate: about.R adjustment.R browse.R browse2.R CalcStat.R
         printExact.R printOrQA.R printsummary.R PvalAdj.R samplot2.R save.result.R
         save.result.mult.R save.result.ORCME.R save.result.ORICC.R saveDir.R SaveGraph.R saveXls.R savingRwd.R
         SEPlot.R Setseed.R showdata.R Signif.R summ.R UserPlot.R
-        UserPlotting.R xfudge.R IsoGeneGUIVignette.R
+        UserPlotting.R xfudge.R IsoGeneGUIVignette.R zzz.R
 URL:  http://ibiostat.be/online-resources/online-resources/isogenegui/isogenegui-package
 Packaged: 2012-10-02 04:22:42 UTC; biocbuild
+PackageStatus: Deprecated
 
